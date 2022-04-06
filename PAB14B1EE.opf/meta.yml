@@ -1,0 +1,29 @@
+id: PAB14B1EE
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA00KG013
+  instance_id: http://purl.bdrc.io/resource/IE00KG013
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསོ་རིག་མཁས་དབང་ཁག་གི་རྣམ་ཐར་ཕྱོགས་བསྒྲིགས།
+  alt_title: {}
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    d68384095b054fea9d698896f307f027:
+      title: པོད ༡་གསོ་རིག་མཁས་དབང་ཁག་གི་རྣམ་ཐར་ཕྱོགས་བསྒྲིགས
+      volume_number: 1
+      base_file: UT00KG013_I1CZ101_0000.txt
+      reference: http://purl.bdrc.io/resource/VLC97C5CD0B30A97DD
+      image_group: I1CZ101
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW00KG013
+  - http://purl.bdrc.io/resource/W00KG013
+  ocr_software: Namsel
+created_at: '2021-12-22T10:14:34.873712'
+last_modified_at: '2021-12-22T10:14:34.873718'
